@@ -30,31 +30,27 @@
 </head>
 
 <body>
-  <header>
-j.clark
-e: j [at]jclark[dot]org //
-w: <a href="http://www.jeanaclark.org">http://www.jeanaclark.org</a> //
-t: <a href="http://www.twitter.com/jeana_with_a_j">@jeana_with_a_j</a>
 
+<div id="container">
+  <div id="outline">
+  <header>
+    <h1>j.clark</h1>
+    <ul>
+      <li><strong>e:</strong> j [at]jclark[dot]org</li>
+      <li><strong>w:</strong> <a href="http://www.jeanaclark.org">http://www.jeanaclark.org</a></li>
+      <li><strong>t:</strong> <a href="http://www.twitter.com/jeana_with_a_j">@jeana_with_a_j</a></li>
+    </ul>
   </header>
 
-
-  <section id="about">
-I work at the intersection of Design, Code, and Content to create community in digital space.
-
-+ Creative designer with over 10 years of experience working on websites and printed materials in corporate, independent, non-profit and higher education environments.
-
-+ Graphic design skills including web and print design, logo and brand development, and publication design.
-
-+ Extensive programming experience coding HTML, CSS, [less extensive]PHP, JavasScript, ASP, mySQL
-
-+ Custom programming, theming and administration of content management systems.
-
-+ Storyteller/content curator/Social Media . . . 
-
-
-
-
+  <div id="main" role="main">
+    <section id="about">
+    <h3>Overview</h3>
+      <p>I work at the intersection of Design, Code, and Content to create community in digital space.</p>
+      <p>+ Creative designer with over 10 years of experience working on websites and printed materials in corporate, independent, non-profit and higher education environments.</p>
+      <p>+ Graphic design skills including web and print design, logo and brand development, and publication design.</p>
+      <p>+ Extensive programming experience coding HTML, CSS, [less extensive]PHP, JavasScript, ASP, mySQL</p>
+      <p>+ Custom programming, theming and administration of content management systems.</p>
+      <p>+ Storyteller/content curator/Social Media . . .</p> 
   </section>
 
 
@@ -64,6 +60,12 @@ I work at the intersection of Design, Code, and Content to create community in d
 
 
   </footer>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
+  <script src="js/script.js" type="text/javascript" charset="utf-8"></script>
+</div>
+</div>
+
+
 
 </body>
 </html>
