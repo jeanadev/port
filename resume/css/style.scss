@@ -1,10 +1,57 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+ margin: 0;
+ padding: 0;
+ border: 0;
+ font-size: 100%;
+ font: inherit;
+ vertical-align: baseline;
+}
+
 body {
-  background: rgba(0, 0, 0, 0.06);
+  background: rgba(0,0,0,.06);
   font-size: 13px;
   color: #333;
   font-family:LatoLight;
+  line-height: 1;
 }
 
+  a {
+    text-decoration:none;
+    color:#6e7544;
+    -moz-transition-property:all;
+    -webkit-transition-property: all;
+    -o-transition-property: all;
+    transition-property: all;
+    -moz-transition-duration: 500ms;
+    -webkit-transition-duration: 500ms;
+    -o-transition-duration: 500ms;
+    transition-duration: 500ms;
+  }
+  a:link {
+    color:#6e7544;
+    border-bottom:1px solid #dce0c2;
+    text-decoration:none;
+}
+
+  a:hover {
+    border-bottom:1px solid #6e7544;
+  }
+
+ol, ul {
+  list-style:none;
+}
 
 div#container {
   -moz-box-sizing: border-box;
@@ -13,7 +60,7 @@ div#container {
   box-sizing: border-box;
   border: 20px solid #FAFAFA;
   max-width: 800px;
-  margin: 50px auto;
+  margin: 10px auto;
   background: #FFF;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
@@ -70,7 +117,7 @@ h3 {
   background: -moz-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
   background: -o-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
-  background-color: #17a09e;
+  background-color: #6e7544;
   margin:0 -25px 0.6em;
   position: relative;
   padding: 0.3em 1em;
@@ -99,8 +146,8 @@ h3 {
     width:0px;
     height:0px;
     border:5px solid transparent;
-    border-top-color:#1ecdca;
-    border-right-color:#1ecdca;
+    border-top-color:#dce0c2;
+    border-right-color:#dce0c2;
     -moz-transition-property:all;
     -webkit-transition-property:all;
     -o-transition-property:all;
@@ -119,8 +166,8 @@ h3 {
       width:0px;
       height:0px;
       border: 5px solid transparent;
-      border-top-color:#1ecdca;
-      border-left-color:#1ecdca;
+      border-top-color:#dce0c2;
+      border-left-color:#dce0c2;
       -moz-transition-property: all;
  -webkit-transition-property: all;
  -o-transition-property: all;
@@ -134,8 +181,24 @@ h3 {
   .after, .before {
     z-index:101;
   }
+}
 
+h4 {
+  font-weight:bold;
+  color:#111;
+  font-size:1.2em;
+  margin-bottom: 0.3em;
 
+  span.supportcopy {
+    font-style:italic;
+    font-weight:normal;
+  }
+}
+
+h5 {
+  font-style:italic;
+  color:#666;
+  margin-bottom:.3em;
 }
 
 
@@ -148,20 +211,22 @@ section {
   }
 
  &:hover h3 {
-    background-color: #b20101;
+    background-color: #dce0c2;
   }
 
   &:hover h3:after, &:hover h3 .after {
-    border-top-color: #e50101;
-    border-right-color:#e50101;
+    border-top-color: #6e7544;
+    border-right-color:#6e7544;
   }
 
   &:hover h3:before, &:hover h3 .before {
-    border-top-color:#e50101;
-    border-left-color:#e50101;
+    border-top-color:#6e7544;
+    border-left-color:#6e7544;
   }
 
   a.offsite {
+    text-decoration:none;
+    border-bottom:none;
     font-size: .9em;
     display:block;
     text-align:right;
@@ -176,6 +241,42 @@ section {
     margin-bottom:1.5em;
     line-height: 1.4em;
     border-bottom:1px dashed #ddd;
+  }
+
+}
+
+section#skills {
+  > ul {
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    -o-column-count: 2;
+    column-count:2;
+    -moz-column-gap: 30px;
+    -webkit-column-gap: 30px;
+    -o-column-count:30px;
+    column-gap:30px;
+  }
+
+  > ul > li {
+    display:block;
+    border-left:5px solid #eaeaea;
+    border-bottom:none;
+    padding: 2px 0 2px 5px;
+  }
+
+}
+
+section#experience {
+  > ul > li {
+    position:relative;
+  }
+
+  > ul > li h6 {
+    position:absolute;
+    right:0;
+    top:0;
+    font-size:0.8em;
+    color:#AAA;
   }
 
 }

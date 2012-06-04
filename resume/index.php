@@ -54,7 +54,30 @@
   </section>
 
 
+  <section id="skills">
+  <h3>Skills</h3>
+  <ul>
+    <li>10 years experience as a front-end developer using HTML, CSS, Javascript, and PHP.</li>
+    <li>Extensive knowledge of popular content management systems such as <strong>Drupal</strong>, <strong>Wordpress</strong>, and <strong>Joomla</strong>.</li>
+    <li>Experience developing mobile and responsive websites for <strong>iPhone</strong>, <strong>iPad</strong>, &amp; <strong>Android</strong> devices.</li>
+    <li><strong>Content Strategy Development</strong> for higher-education, including social media and website channels.</li> 
+    <li>fifth bullet</li>
+    <li>sixth bullet</li>
+  </ul>
+  </section>
 
+  <section id="experience">
+  <h3>Experience</h3>
+
+  <ul>
+    <li>
+        <h4>Department <span class="supportcopy">/ Location</span></h4>
+        <h5>Job Title</h5>
+        <h6>Dates Year - Date Year <a class="offsite" href="">View Project</a></h6>
+        <p>Description</p>
+    </li>
+  </ul>
+  </section>
 
   <footer>
 
