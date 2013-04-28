@@ -1,0 +1,44 @@
+* {
+	margin:0;
+	padding:0;
+	}
+
+
+
+header {
+	display: block;
+	font-weight: bold;
+	}
+	
+	
+nav {
+	display: block;
+	width:100%;
+	background-color:#dcdcdc;
+	}
+
+nav ul {
+	display:block;
+	list-style-type:none;
+	height:80px;
+	width:663px;
+	margin:auto;
+	}
+
+nav li {
+	border-right:1px solid #c2c2c2;
+	float:left;
+	}
+	
+nav ul a {
+	padding:0px 32px;
+	display:block;
+	line-height:80px;
+	text-decoration:none;
+	font-family:georgia;
+	color:#371c1c;
+	}
+	
+nav ul a:hover {
+	color:#fff;
+	}

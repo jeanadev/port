@@ -1,0 +1,222 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+body {
+  background: rgba(0, 0, 0, 0.06);
+  font-size: 13px;
+  color: #333;
+  font-family: LatoLight;
+  line-height: 1; }
+
+a {
+  text-decoration: none;
+  color: #6e7544;
+  -moz-transition-property: all;
+  -webkit-transition-property: all;
+  -o-transition-property: all;
+  transition-property: all;
+  -moz-transition-duration: 500ms;
+  -webkit-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  transition-duration: 500ms; }
+
+a:link {
+  color: #6e7544;
+  border-bottom: 1px solid #dce0c2;
+  text-decoration: none; }
+
+a:hover {
+  border-bottom: 1px solid #6e7544; }
+
+ol, ul {
+  list-style: none; }
+
+div#container {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 20px solid #FAFAFA;
+  max-width: 800px;
+  margin: 10px auto;
+  background: #FFF;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -khtml-border-radius: 5px;
+  border-radius: 5px; }
+
+div#container div#outline {
+  border: 1px solid #eee;
+  padding: 15px; }
+
+header {
+  display: block;
+  margin-bottom: 3em; }
+  header ul {
+    margin-top: .5em; }
+  header ul li {
+    display: inline;
+    margin-right: 1em; }
+  header ul li:after {
+    content: '//';
+    padding-left: 1em;
+    color: #AAA; }
+  header ul li:last-child:after {
+    content: ''; }
+  header h1 {
+    font-size: 4em;
+    display: inline;
+    font-weight: normal;
+    font-family: LatoBlack; }
+
+h3 {
+  font-family: LatoBold, Arial, Sans-serif;
+  color: #fff;
+  font-size: 2em;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(100%, rgba(0, 0, 0, 0.1)));
+  background: -webkit-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
+  background: -moz-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
+  background: -o-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
+  background-color: #6e7544;
+  margin: 0 -25px 0.6em;
+  position: relative;
+  padding: 0.3em 1em;
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.5);
+  -moz-transition-property: all;
+  -webkit-transition-property: all;
+  -o-transition-property: all;
+  transition-property: all;
+  -moz-transition-duration: 800ms;
+  -webkit-transition-duration: 800ms;
+  -o-transition-duration: 800ms;
+  transition-duration: 800ms;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0px -1px 0px rgba(255, 255, 255, 0.25) inset, 0px 1px 0px rgba(255, 255, 255, 0.25) inset;
+  -webkit-box-shadow: 0px -1px 0px rgba(255, 255, 255, 0.25) inset, 0px 1px 0px rgba(255, 255, 255, 0.25) inset;
+  -o-box-shadow: 0px -1px 0px rgba(255, 255, 255, 0.25) inset, 0px 1px 0px rgba(255, 255, 255, 0.25) inset;
+  box-shadow: 0px -1px 0px rgba(255, 255, 255, 0.25) inset, 0px 1px 0px rgba(255, 255, 255, 0.25) inset; }
+  h3:after, h3 .after {
+    display: block;
+    content: ' ';
+    position: absolute;
+    left: 0px;
+    bottom: -11px;
+    width: 0px;
+    height: 0px;
+    border: 5px solid transparent;
+    border-top-color: #dce0c2;
+    border-right-color: #dce0c2;
+    -moz-transition-property: all;
+    -webkit-transition-property: all;
+    -o-transition-property: all;
+    transition-property: all;
+    -moz-transition-duration: 800ms;
+    -webkit-transition-duration: 800ms;
+    -o-transition-duration: 800ms;
+    transition-duration: 800ms; }
+  h3:before, h3 .before {
+    content: ' ';
+    position: absolute;
+    right: 0px;
+    bottom: -11px;
+    width: 0px;
+    height: 0px;
+    border: 5px solid transparent;
+    border-top-color: #dce0c2;
+    border-left-color: #dce0c2;
+    -moz-transition-property: all;
+    -webkit-transition-property: all;
+    -o-transition-property: all;
+    transition-property: all;
+    -moz-transition-duration: 800ms;
+    -webkit-transition-duration: 800ms;
+    -o-transition-duration: 800ms;
+    transition-duration: 800ms; }
+  h3 .after, h3 .before {
+    z-index: 101; }
+
+h4 {
+  font-weight: bold;
+  color: #111;
+  font-size: 1.2em;
+  margin-bottom: 0.3em; }
+  h4 span.supportcopy {
+    font-style: italic;
+    font-weight: normal; }
+
+h5 {
+  font-style: italic;
+  color: #666;
+  margin-bottom: .3em; }
+
+section {
+  margin-bottom: 3em; }
+  section:last-child {
+    margin-bottom: 0;
+    border-bottom: none; }
+  section:hover h3 {
+    background-color: #dce0c2; }
+  section:hover h3:after, section:hover h3 .after {
+    border-top-color: #6e7544;
+    border-right-color: #6e7544; }
+  section:hover h3:before, section:hover h3 .before {
+    border-top-color: #6e7544;
+    border-left-color: #6e7544; }
+  section a.offsite {
+    text-decoration: none;
+    border-bottom: none;
+    font-size: .9em;
+    display: block;
+    text-align: right; }
+  section a.offsite:after {
+    content: ' \2192'; }
+  section > ul > li {
+    padding-bottom: 1.5em;
+    margin-bottom: 1.5em;
+    line-height: 1.4em;
+    border-bottom: 1px dashed #ddd; }
+
+section#skills > ul {
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  -o-column-count: 2;
+  column-count: 2;
+  -moz-column-gap: 30px;
+  -webkit-column-gap: 30px;
+  -o-column-count: 30px;
+  column-gap: 30px; }
+section#skills > ul > li {
+  display: block;
+  border-left: 5px solid #eaeaea;
+  border-bottom: none;
+  padding: 2px 0 2px 5px; }
+
+section#experience > ul > li {
+  position: relative; }
+section#experience > ul > li h6 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 0.8em;
+  color: #AAA; }
