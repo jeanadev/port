@@ -14,8 +14,8 @@
 
 
 		<link rel="icon" href="/img/favicon.png" />
-		<link rel="stylesheet" "screen" type="text/css" href="/css/style.css" />
-    <link rel="stylesheet" "print" type="text/css" href="/css/style.css" />                                                
+		<link rel="stylesheet" media="screen" type="text/css" href="/css/style.css" />
+    <link rel="stylesheet" media="print" type="text/css" href="/css/style.css" />                                                
 
 
 
