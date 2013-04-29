@@ -5,11 +5,8 @@
 		<h3 style="margin:13px;letter-spacing:1px;">RECENT WORK</h3>
     <div id="port">
     
-      <div class="p1"><a href="collateral/img/StPats_Missio.jpg" title="Saint Patrick's Church :: Postcard Concept &amp; Design" class="thickbox"></a><p>PRINT :: POSTCARD DESIGN</p></div>
-    <!--  
-      <div class="p1"><a href="img/asbury-joy-poster.png" title="Asbury Colege :: Poster Design, typography" class="thickbox"></a><p>PRINT :: CONCEPT &amp; DESIGN</p></div>
-		  <div class="p3"><a href="img/fedg-web.png" title="Follett Educational Distribution Group :: Intranet :: Design, Code, Maintence" class="thickbox"></a><p>Web :: HTML &amp; CSS</p></div>
-    -->
+      <div class="p1"><a href="img/ack-web.png" title="Beyond Grep / ack :: Front End Web Development :: HTML &amp; CSS" class="thickbox"></a><p>WEB :: HTML & CSS</p></div>
+   
       <div class="p3"><a href="img/h2oMaestroVan.jpg" title="H2O Maestro Logo :: Designed for The Serif Group" class="thickbox"></a><p>LOGO :: Illustration</p></div>
       <div class="p2"><a href="img/asbury-minconf.png" title="Asbury Theological Seminary :: Ministry Conference Brochure :: Conference Identity &amp; Collateral Design" class="thickbox"></a><p>PRINT :: Concept &amp; Design</p></div>
 

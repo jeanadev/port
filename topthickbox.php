@@ -1,5 +1,4 @@
 <!doctype html>
-<!-- I &heart; HTML5 -->
 
 
 <html> 
