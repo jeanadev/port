@@ -8,7 +8,7 @@
 
         <div class="p4"><a href="img/logo-JuiceBib.png" title="JuiceBib Identity, Logo, and Collateral" class="thickbox"></a><p>LOGO :: Illustration</p></div>
  
-      <div class="p2"><a href="img/web-GattonPartner.jpg" title="Gatton College of Business &amp; Economics :: Corporate Partners Website :: HTML &amp; CSS" class="thickbox"></a><p>Web :: HTML &amp; CSS</p></div>
+      <div class="p2"><a href="img/drupal-signage.png" title="Gatton College of Business &amp; Economics :: Digital Signage :: Drupal, HTML &amp; CSS" class="thickbox"></a><p>Web :: Drupal Development </p></div>
 
 <!--      <div class="p3"><a href="img/h2oMaestroVan.jpg" title="H2O Maestro Logo :: Designed for The Serif Group" class="thickbox"></a><p>LOGO :: Illustration</p></div> -->
 
