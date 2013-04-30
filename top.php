@@ -24,15 +24,15 @@
 
     <div id="nav">
         <a href="/">
-            <img src="/img/jlogo.png" alt="JeanaClarkLogo" style="float:left;" />
+            <img src="/img/jlogo.png" alt="JeanaClarkLogo" width="100" height="140" style="float:left;" />
         </a>
         <a href="/">
             <img src="/img/jc-name.png" alt="JeanaClark" width="280" height="43" style="margin:35px 0 0 20px;float:left;" />
         </a>
 
         <ul>
-            <li><a href="mailto:jeana@jeanaclark.org"><img src="/img/email-icon.png" alt="Email" /> contact</a></li>
-            <li><a href="/JeanaClarkResume_web.pdf"><img src="/img/pdficon_small.gif" alt="Download Resume" /> resume</a></li>
+            <li><a href="mailto:jeana@jeanaclark.org"><img src="/img/email-icon.png" width="25" height="17" alt="Email" /> contact</a></li>
+            <li><a href="/JeanaClarkResume_web.pdf"><img src="/img/pdficon_small.gif" width="17" height="17" alt="Download Resume" /> resume</a></li>
             <li><a href="/" style="border-bottom:none;">portfolio</a>
                 <ul>
                     <li><a href="/logos/">Logos</a></li>

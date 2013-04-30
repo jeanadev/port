@@ -177,45 +177,33 @@ body, select, input, button, textarea {
   border-bottom:0px;
 }
 
-.p1 a {
-        display:block;
-        width:295px;
-        height:170px;
+.projectThumbnail a { 
+	display:block;
+	width:295px;
+	height:170px;
+	}
+
+.ack a {
         background: transparent url('/img/TN-ack.png') no-repeat;
 }
 
-.p2 a {
-	display: block;
-	width: 295px;
-	height: 170px;
+.GattonSignage a {
 	background: transparent url('/img/TN-GattonSignage.png') no-repeat;
 }
 
-.p3 a {
-	display: block;
-	width: 295px;
-	height: 170px;
+.InboxOrange a {
 	background: transparent url('/img/TN-InboxOrange.png') no-repeat;
 }
 
-.p4 a {
-        display:block;
-        width:295px;
-        height:170px;
+.JuiceBib a {
         background: transparent url('/img/TN-JuiceBib.png') no-repeat;
 }
 
-.p5 a {
-        display: block;
-        width: 295px;
-        height: 170px;
+.SterlingSilver a {
         background: transparent url('/img/TN-SterlingSilver.png') no-repeat;
 }
 
-.p6 a {
-        display: block;
-        width: 295px;
-        height: 170px;
+.GattonUnited a {
         background: transparent url('/img/TN-GattonUnited.png') no-repeat;
 }
 
