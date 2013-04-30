@@ -1,4 +1,4 @@
-<?php include('topthickbox.php'); ?>	
+<?php include('top.php'); ?>	
 
 		<div id="main">
 
