@@ -18,13 +18,9 @@
       <dd><h3>Viewbook - Gatton College of Business and Economics</h3></dd>
       <dd>A responsive experiment that took the existing print viewbook for the undergraduate program and made it accessible online.  <br /><br />Responsive web design, HTML, CSS, &amp; ASP<br /><br />online: <a href="http://gatton.uky.edu/openingdoors">gatton.uky.edu/openingdoors</a><br /><br /></dd>
 
-      <dt><img src="/img/web-GattonViewbook.png" alt="Responsive Viewbook" width="600" height="450" /> </dt>
-      <dd><h3>Viewbook - Gatton College of Business and Economics</h3></dd>
-      <dd>A responsive experiment that took the existing print viewbook for the undergraduate program and made it accessible online.  <br /><br />Responsive web design, HTML, CSS, &amp; ASP<br /><br />online: <a href="http://gatton.uky.edu/openingdoors">gatton.uky.edu/openingdoors</a><br /><br /></dd>
-
       <dt><img src="/img/ack-web.png" alt="ack" width="600"  /> </dt>
       <dd><h3>ack! | Beyond Grep</h3></dd>
-      <dd>Worked with a graphic designer, and the software creator to redesign beyondgrep.com  <br /><br />HTML &amp; CSS<br /><br />online: <a href="http://beyondgrep.com">beyondgrep.com</a><br /><br /></dd>
+      <dd>Worked with a graphic designer and the software creator to redesign beyondgrep.com  <br /><br />HTML &amp; CSS<br /><br />online: <a href="http://beyondgrep.com">beyondgrep.com</a><br /><br /></dd>
 
     </dl>
 
