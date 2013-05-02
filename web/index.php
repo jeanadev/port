@@ -10,7 +10,7 @@
       <dd>Led project to create a website highlighting fundraising efforts for a $65 Million capital campaign. Created content calendar, wireframes, and worked with graphic designer to create look and feel of the site.<br /><br />HTML, CSS, &amp; ASP<br /><br />online: <a href="http://gattonunited.uky.edu">gattonunited.uky.edu</a></dd>
 
 
-      <dt><img src="/img/drupal-signage.png" alt="Gatton Signage Screens" width="600" height="446" /> </dt>
+      <dt><img src="/img/drupal-signage.png" alt="Gatton Signage Screens" width="610" height="446" /> </dt>
       <dd><h3>Digital Signage - Gatton College of Business and Economics</h3></dd>
       <dd>Drupal drives the Digital Signage at the Gatton College of Business and Economics. I created a calendar content type, and used various views and taxonomy to deliver the calendar content to 3 tv screens throughout the building. Five content editors were trained update the college calendar through Drupal.<br /><br />Drupal, Theming, Views, HTML &amp; CSS<br /><br />online: <a href="http://gattondev.uky.edu/calendar/signage">gattondev.uky.edu/calendar/signage</a><br /><br /></dd>
 
@@ -21,6 +21,11 @@
       <dt><img src="/img/ack-web.png" alt="ack" width="600"  /> </dt>
       <dd><h3>ack! | Beyond Grep</h3></dd>
       <dd>Worked with a graphic designer and the software creator to redesign beyondgrep.com  <br /><br />HTML &amp; CSS<br /><br />online: <a href="http://beyondgrep.com">beyondgrep.com</a><br /><br /></dd>
+
+      <dt><img src="/img/email-GattonGroup.jpg" alt="Emails" width="610"  /> </dt>
+      <dd><h3>Email Marketing | Gatton College of Business and Economics</h3></dd>
+      <dd>Designed HTML emails for various campus departments. Worked as a team with the IT director and Marketing director to create a student-recruitment funnel system, tracking electronic correspondance with potential students from initial contact through application and acceptance.  <br /><br />HTML &amp; CSS<br /><br /></dd>
+
 
     </dl>
 
