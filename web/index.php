@@ -26,6 +26,9 @@
       <dd><h3>Email Marketing | Gatton College of Business and Economics</h3></dd>
       <dd>Designed HTML emails for various campus departments. Worked as a team with the IT director and Marketing director to create a student-recruitment funnel system, tracking electronic correspondance with potential students from initial contact through application and acceptance.  <br /><br />HTML &amp; CSS<br /><br /></dd>
 
+      <dt><img src="img/FEDG_Townhall.png" alt="FEDG Townhall" /> </dt>
+      <dd><h3>Follett Educational Distribution Group Intranet site</h3></dd>
+      <dd>Developed, managed and designed a large corporation intranet site of over 40 pages using original graphics and handcoded HTML/CSS; worked alongside various stakeholders including vice-presidents, IT staff and copywriters. Internal site visits incresed 300% over a four month period.<br /><br />HTML, CSS &amp; PHP</dd>
 
     </dl>
 
