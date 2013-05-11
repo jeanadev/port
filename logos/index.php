@@ -1,8 +1,11 @@
 <?php include('../top.php'); ?>
 
-		<div id="main">
-
-		<h3 style="margin:13px;letter-spacing:1px;">LOGOS &amp; ILLUSTRATIONS</h3>
+   <div id="main">
+    
+    <section id="work">
+    	<header>
+    	    <h3>Logos &amp; Illustration</h3>
+    	</header>
 
 
     <dl>
@@ -37,8 +40,8 @@
       <dd>Illustration</dd>
   </dl>
 
-<div style="clear:both;"></div>
+   </section>
 
-<br /><br />
-</div>
+	</div>
+
 <?php include('../footer.php'); ?>

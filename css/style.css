@@ -170,6 +170,12 @@ body, select, input, button, textarea {
   border-bottom:0px;
 }
 
+#work header h3 {
+	margin:13px;
+	letter-spacing:1px;
+	Text-transform:uppercase;
+	}
+
 .highlightedWork a { 
 	display:block;
 	width:295px;

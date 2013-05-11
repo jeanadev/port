@@ -1,9 +1,11 @@
 <?php include('../top.php'); ?>
 
-		<div id="main">
-
-		<h3 style="text-transform:uppercase;margin:13px;letter-spacing:1px;">magazines &amp; publications</h3>
-
+   <div id="main">
+    
+    <section id="work">
+    	<header>
+    	    <h3>Magazines &amp; Publications</h3>
+    	</header>
 
     <dl>
       <dt><img src="img/BWITitleTalk.png" alt="BWI TitleTalk Magazine" /> </dt>
@@ -28,9 +30,8 @@
 
   </dl>
 
+   </section>
 
-<div style="clear:both;"></div>
+	</div>
 
-<br /><br />
-</div>
 <?php include('../footer.php'); ?>

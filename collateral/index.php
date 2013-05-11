@@ -1,8 +1,11 @@
 <?php include('../top.php'); ?>
 
-		<div id="main">
-
-		<h3 style="margin:13px;letter-spacing:1px;">COLLATERAL</h3>
+   <div id="main">
+    
+    <section id="work">
+    	<header>
+    	    <h3>Collateral</h3>
+    	</header>
 
 
     <dl>
@@ -31,8 +34,8 @@
   </dl>
 
 
-<div style="clear:both;"></div>
+   </section>
 
-<br /><br />
-</div>
+	</div>
+
 <?php include('../footer.php'); ?>

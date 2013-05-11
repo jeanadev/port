@@ -1,8 +1,11 @@
 <?php include('../top.php'); ?>
 
-    <div id="main">
-    <h3 style="margin:13px;letter-spacing:1px;">WEBSITES</h3>
-
+   <div id="main">
+    
+    <section id="work">
+    	<header>
+    	    <h3>Websites</h3>
+    	</header>
 
     <dl>
       <dt><img src="/img/web-GattonUnited.png" alt="Gatton United Capital Campaign" width="600" height="526" /> </dt>
@@ -32,9 +35,8 @@
 
     </dl>
 
+   </section>
 
-<div style="clear:both;"></div>
+	</div>
 
-<br /><br />
-</div>
 <?php include('../footer.php'); ?>
