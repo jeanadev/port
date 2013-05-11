@@ -1,6 +1,13 @@
 <!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie ie6 lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie ie7 lt-ie10 lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie ie8 lt-ie10 lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie ie9 lt-ie10" lang="en"> <![endif]-->
+<!--[if gt IE 9]> <html class="no-js" lang="en"><![endif]-->
 
 <html> 
+
+
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Jeana Clark :: Graphic Designer</title>
@@ -9,20 +16,24 @@
         $homepage = "/";
         $currentpage = $_SERVER['REQUEST_URI'];
         if($homepage==$currentpage) {  ?>
-<script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.js"></script>
     <script type="text/javascript" src="/js/thickbox.js"></script>
     <link href="/css/thickbox.css" rel="stylesheet" type="text/css" />
             <?php } ?>
             
     <link rel="icon" href="/img/favicon.png" />
+
+    <link rel="stylesheet" media="screen" type="text/css" href="/css/normalize.css" />
     <link rel="stylesheet" media="screen" type="text/css" href="/css/style.css" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
 </head>
 
 <body>
-    <div id="top">        
-    </div>
-
-    <div id="nav">
+    <header id="top">        
+    </header>
+    <nav id="nav">
         <a href="/">
             <img src="/img/jlogo.png" alt="JeanaClarkLogo" width="100" height="140" style="float:left;" />
         </a>
@@ -42,4 +53,4 @@
                 </ul>
             </li>        
         </ul>
-    </div>
+    </nav>
