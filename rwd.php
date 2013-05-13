@@ -68,50 +68,49 @@
     	<header>
     	    <h2>RECENT WORK</h3>
     	</header>
-    	
-    	<div>
+    <div class="recentwork">
+    	<div class="project">
         <a href="#">
-			<div class="thumb"><img class="" src="" /></div>
+			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-GattonUnited.png" /></div>
           <h3>WEB :: HTML, CSS, CLASSIC ASP</h3>
          </a>
        </div>
 
-    	<div>
+    	<div class="project">
         <a href="#">
-			<div class="thumb"><img class="" src="" /></div>
+			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-JuiceBib.png" /></div>
           <h3>LOGO :: ILLUSTRATION</h3>
         </a>
         </div>
     	
-    	<div>
+    	<div class="project">
         <a href="#">
-			<div class="thumb"><img class="" src="" /></div>
-          <h3>Zappos</h3>
+			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-GattonSignage.png" /></div>
+          <h3>WEB :: DRUPAL DEVELOPMENT</h3>
         </a>
         </div>
 
-    	<div>
+    	<div class="project">
         <a href="#">
-			<div class="thumb"><img class="" src="" /></div>
-          <h3>Zappos</h3>
+			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-InboxOrange.png" /></div>
+          <h3>WEB :: DESIGN, & ICON ILLUSTRATION</h3>
         </a>
         </div>
 
-    	<div>
+    	<div class="project">
         <a href="#">
-			<div class="thumb"><img class="" src="" /></div>
-          <h3>Zappos</h3>
+			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-SterlingSilver.png" /></div>
+          <h3>LOGO :: ILLUSTRATION</h3>
         </a>
         </div>
 
-    	<div>
+    	<div class="project">
         <a href="#">
-			<div class="thumb"><img class="" src="" /></div>
-          <h3>Zappos</h3>
+			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-ack.png" /></div>
+          <h3>WEB :: HTML & CSS</h3>
         </a>
         </div>
-
-    	
+	</div>
     </section>
     
     	
@@ -125,5 +124,11 @@
 	</div>
     </footer>		
 </div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/functions.js"></script>
+
+
+
 </body>
 </html>
