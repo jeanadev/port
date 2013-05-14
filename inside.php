@@ -52,51 +52,43 @@
 
   <section id="highlightedwork">
     	<header>
-    	    <h2>RECENT WORK</h2>
+    	    <h2>Web Development</h2>
     	</header>
-    <div class="recentwork">
-    	<div class="project">
-        <a href="#">
-			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-GattonUnited.png" /></div>
-          <h3>WEB :: HTML, CSS, CLASSIC ASP</h3>
-         </a>
-       </div>
-
-    	<div class="project">
-        <a href="#">
-			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-JuiceBib.png" /></div>
-          <h3>LOGO :: ILLUSTRATION</h3>
-        </a>
-        </div>
     	
-    	<div class="project">
-        <a href="#">
-			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-GattonSignage.png" /></div>
-          <h3>WEB :: DRUPAL DEVELOPMENT</h3>
-        </a>
-        </div>
+    <div class="work">
+		<span class="company">Gatton College of Business &amp; Economics</span>
 
-    	<div class="project">
-        <a href="#">
-			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-InboxOrange.png" /></div>
-          <h3>WEB :: DESIGN, & ICON ILLUSTRATION</h3>
-        </a>
-        </div>
-
-    	<div class="project">
-        <a href="#">
-			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-SterlingSilver.png" /></div>
-          <h3>LOGO :: ILLUSTRATION</h3>
-        </a>
-        </div>
-
-    	<div class="project">
-        <a href="#">
-			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-ack.png" /></div>
-          <h3>WEB :: HTML & CSS</h3>
-        </a>
+	    <h2>Website: Capital Campaign Fundraising</h2>
+		
+		<img src="/img/web-GattonUnited.png" style="max-width:100%;height:auto;" />
+		<div class="description">
+		<div class="responsibilities"><h5>RESPONSIBILITIES</h5>
+		<p>HTML, CSS, & Classic ASP</p></div>
+		
+    	<p>Led project to create a website highlighting fundraising efforts for a $65 Million capital campaign. Created content calendar, wireframes, and worked with graphic designer to create look and feel of the site.</p>
         </div>
 	</div>
+    
+  
+  
+  
+  
+    <div class="work">
+    
+		
+		<span class="company">Gatton College of Business &amp; Economics</span>
+
+	    <h2>Digital Signage</h2>
+		
+		<img src="/img/drupal-signage.png" style="max-width:100%;height:auto;" />
+		<div class="description">
+		<div class="responsibilities"><h5>RESPONSIBILITIES</h5>
+		<p>Drupal, Theming, Views, HTML & CSS</p></div>
+		
+    	<p>Drupal drives the Digital Signage at the Gatton College of Business and Economics. I created a calendar content type, and used various views and taxonomy to deliver the calendar content to 3 tv screens throughout the building. Five content editors were trained update the college calendar through Drupal.</p>
+        </div>
+	</div>
+	
     </section>
     
     	

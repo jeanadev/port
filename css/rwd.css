@@ -124,6 +124,7 @@ background-color:#dce0c2;
 		font-size:1em;
 		letter-spacing:.1em;
 	padding:.5em 0 1em 1.5%;
+	text-transform:uppercase;
 	}
 
 	#highlightedwork div.project img {
@@ -205,12 +206,65 @@ text-decoration:none;
     margin-top:3em;
 	font-weight:500;
     font-size:.7em;
-  margin-bottom:3em;
+  	margin-bottom:3em;
 }
 
 #footer div.contact {
 	display:none;
 	}
+	
+.work {
+	margin:1em;
+	border-bottom:1px solid #dce0c2;
+	}
+
+.work h2 {
+	margin:1em 0;
+	text-align:center;
+}
+
+.work p {
+	margin: 0 0 1em 0;
+	font-size:.9em;
+	line-height:1.8em;
+	font-weight:400;
+	}
+
+.responsibilities {
+	border:1px solid #dcdcdc;
+	padding:.5em;
+	}
+	
+.description p {
+	margin-top:1em;
+	}
+	
+.responsibilities p {
+	margin:0;
+	}
+
+.company {
+	position:relative;
+	text-align:center;
+	display:block;
+	font-size:.7em;
+	text-transform:uppercase;
+	letter-spacing:.1em;
+	font-weight:600;
+	}
+
+.company:before {
+	content: "\2015";
+	letter-spacing:-2px;
+	padding-right:5px;
+	}
+	
+.company:after {
+	content:"\2015";
+	letter-spacing: -2px;
+	padding-right:5px;
+	}
+
 
 
 @media screen and (min-width:500px) {
@@ -220,6 +274,15 @@ text-decoration:none;
 	position:relative;
 	float:left;
 	margin:0 1% 2em 1%;
+	}
+	
+.work { 
+	padding:2em 0 2em 0;
+}
+
+.work img {
+	text-align:center;
+	width:100%;
 	}
 
 
@@ -318,6 +381,61 @@ text-decoration:none;
 #footer a:hover {
         border-bottom:1px solid #6e7544;
 }
+
+.work {
+	margin:.5em;
+	overflow:hidden;
+	}
+
+.work img {
+	width:70%;
+	float:left;
+	}
+
+.company {
+	padding:0;
+	margin:0 0 .3em 0;
+	position:relative;
+	text-align:left;
+	color:darkgrey;
+	
+	}
+
+.company:before {
+	content: "";
+	letter-spacing:-2px;
+	padding-right:5px;
+	}
+	
+.company:after {
+	content:"";
+	letter-spacing: -2px;
+	padding-right:5px;
+	}
+
+.work h2 {
+	padding:0;
+	margin:0;
+	float:right;	
+	text-align:left;
+	width:27%;
+	}
+	
+.responsibilities {
+	margin:0;
+	}
+
+.responsibilities p {
+	font-size:.8em;
+	padding:0;
+	margin:0;
+	line-height:1.2em;
+	}	
+
+.description { 
+	float:right;
+	width:28%;
+	}
 
 }
 
