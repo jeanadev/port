@@ -17,7 +17,8 @@
     <![endif]-->
 
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,200,300,500,700' rel='stylesheet' type='text/css'>
-
+	<link href='http://fonts.googleapis.com/css?family=Kristi' rel='stylesheet' type='text/css'>
+ 
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 

@@ -12,12 +12,13 @@
     <link rel="stylesheet" media="screen" type="text/css" href="/css/normalize.css" />
     <link rel="stylesheet" media="screen" type="text/css" href="/css/rwd.css" />
 
-    <!--[if lt IE 9]>
-          <script src="dist/html5shiv.js"></script>
+   <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-          
+
+         
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,200,300,500,700' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Kristi' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Kristi' rel='stylesheet' type='text/css'>
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
@@ -139,7 +140,7 @@
 
 	    <h2>Intranet Site</h2>
 		
-		<img src="/img/web-FEDG.png" alt="FEDG Townhall" style="max-width:100%;height:auto;" />
+		<img src="/img/web-fedg.png" alt="FEDG Townhall" style="max-width:100%;height:auto;" />
 		<div class="description">
 		<div class="responsibilities"><h5>RESPONSIBILITIES</h5>
 		<p>Content Management, HTML, CSS &amp; PHP</p></div>
