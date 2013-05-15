@@ -169,6 +169,7 @@ background-color:#dce0c2;
   right: 5px;
   left: auto;
 }
+
 #highlightedwork div.project {
 	margin-bottom:1em;
 }
@@ -288,13 +289,13 @@ text-decoration:none;
 
 }
 @media screen and (min-width: 950px) {
-	#logo {
-		width:950px;
-		margin:0 auto;
+#logo {
+	width:950px;
+	margin:0 auto;
 		}
 
 #highlightedwork div.project {
-	margin:0
+	margin:0;
 	}
 
 	#logo div {

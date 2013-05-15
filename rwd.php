@@ -13,9 +13,9 @@
     <link rel="stylesheet" media="screen" type="text/css" href="/css/rwd.css" />
 
     <!--[if lt IE 9]>
-          <script src="dist/html5shiv.js"></script>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-          
+
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,200,300,500,700' rel='stylesheet' type='text/css'>
 
     
