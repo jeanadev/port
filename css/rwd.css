@@ -118,15 +118,19 @@ background-color:#dce0c2;
 	padding:1.5%;
 	overflow:hidden;
 }
+	
 	#highlightedwork header h2 {
-		color:#6e7544;
-		font-weight:400;
-		font-size:1em;
-		letter-spacing:.1em;
-	padding:.5em 0 1em 1.5%;
-	text-transform:uppercase;
+	font-family:Kristi;
+	color:#6e7544;
+	font-weight:200;
+	font-size:3em;
+	padding:0;
+	border-bottom:#dce0c2 1px solid;
+	line-height:1em;
+	letter-spacing:0em;
 	}
 
+	
 	#highlightedwork div.project img {
 		width:100%;
 		height:auto;
@@ -192,8 +196,16 @@ text-decoration:none;
 	font-weight:500;
 	font-size:.7em;
         }
+        
 
-
+#highlightedwork .responsibilities h5 {
+	font-weight:700;
+	font-size:.5em;
+	letter-spacing:.1em;
+	text-transform:uppercase;
+	color:#6e7544;
+	}
+	
 
 #portfolio {height: 50em }
 #footer {
@@ -233,7 +245,8 @@ text-decoration:none;
 
 .responsibilities {
 	border:1px solid #dcdcdc;
-	padding:.5em;
+	padding:.2em;
+
 	}
 	
 .description p {
@@ -242,6 +255,8 @@ text-decoration:none;
 	
 .responsibilities p {
 	margin:0;
+	font-size:.7em;
+	font-weight:400;
 	}
 
 .company {
@@ -427,7 +442,6 @@ text-decoration:none;
 	}
 
 .responsibilities p {
-	font-size:.8em;
 	padding:0;
 	margin:0;
 	line-height:1.2em;
