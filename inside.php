@@ -61,15 +61,16 @@
     <div class="work">
 		<span class="company">Gatton College of Business &amp; Economics</span>
 
-	    <h2>Website: Capital Campaign Fundraising</h2>
+	    <h2>Website: Gatton United Capital Campaign</h2>
 		
-		<img src="/img/web-GattonUnited.png" style="max-width:100%;height:auto;" />
+		<img src="/img/web-GattonUnited.png" style="max-width:100%;height:auto;" alt="GattonUnited Capital Campaign" />
 		<div class="description">
-		<div class="responsibilities"><h5>RESPONSIBILITIES</h5>
+		<div class="skills"><h5>Skills</h5>
 		<p>HTML, CSS, & Classic ASP</p></div>
 		
     	<p>Led project to create a website highlighting fundraising efforts for a $65 Million capital campaign. Created content calendar, wireframes, and worked with graphic designer to create look and feel of the site.</p>
-        </div>
+  		<p><a href="http://gattonunited.uky.edu">Visit the Site</a></p>
+       </div>
 	</div>
     
   
@@ -80,13 +81,16 @@
 
 	    <h2>Digital Signage</h2>
 		
-		<img src="/img/drupal-signage.png" style="max-width:100%;height:auto;" />
+		<img src="/img/drupal-signage.png" style="max-width:100%;height:auto;" alt="Drupal Signage" />
 		<div class="description">
-		<div class="responsibilities"><h5>RESPONSIBILITIES</h5>
-		<p>Drupal, Theming, Views, HTML & CSS</p></div>
+		<div class="skills"><h5>Skills</h5>
+		<p>Drupal, Theming, Views, HTML & CSS</p>
+		
+		</div>
 		
     	<p>Drupal drives the Digital Signage at the Gatton College of Business and Economics. I created a calendar content type, and used various views and taxonomy to deliver the calendar content to 3 tv screens throughout the building. Five content editors were trained update the college calendar through Drupal.</p>
-        </div>
+ 		<p><a href="http://gattondev.uky.edu/calendar/signage">Visit the Site</a></p>
+       </div>
 	</div>
 	
     <div class="work">
@@ -97,10 +101,12 @@
 		
 		<img src="/img/web-GattonViewbook.png" alt="Responsive Viewbook" style="max-width:100%;height:auto;" />
 		<div class="description">
-		<div class="responsibilities"><h5>RESPONSIBILITIES</h5>
+		<div class="skills"><h5>Skills</h5>
 		<p>Responsive web design, HTML, CSS, &amp; Classic ASP</p></div>
 		
     	<p>A responsive experiment that took the existing print viewbook for the undergraduate program and made it accessible online.</p>
+  		<p><a href="http://gatton.uky.edu/openingdoors">Visit the Site</a></p>
+
         </div>
 	</div>
 	
@@ -112,10 +118,12 @@
 		
 		<img src="/img/web-ack.png" alt="ack" style="max-width:100%;height:auto;" />
 		<div class="description">
-		<div class="responsibilities"><h5>RESPONSIBILITIES</h5>
+		<div class="skills"><h5>Skills</h5>
 		<p>HTML &amp; CSS</p></div>
 		
     	<p>Worked with a graphic designer and the ack! software creator to redesign beyondgrep.com</p>
+  		<p><a href="http://www.beyondgrep.com">Visit the Site</a></p>
+
         </div>
 	</div>
 	
@@ -127,7 +135,7 @@
 		
 		<img src="/img/email-GattonGroup.jpg" alt="Email Design" style="max-width:100%;height:auto;" />
 		<div class="description">
-		<div class="responsibilities"><h5>RESPONSIBILITIES</h5>
+		<div class="skills"><h5>Skills</h5>
 		<p>Strategic Planning, HTML &amp; CSS</p></div>
 		
     	<p>Designed HTML emails for various campus departments. Worked as a team with the IT director and Marketing director to create a student-recruitment funnel system, tracking electronic correspondance with potential students from initial contact through application and acceptance.</p>
@@ -142,7 +150,7 @@
 		
 		<img src="/img/web-fedg.png" alt="FEDG Townhall" style="max-width:100%;height:auto;" />
 		<div class="description">
-		<div class="responsibilities"><h5>RESPONSIBILITIES</h5>
+		<div class="skills"><h5>Skills</h5>
 		<p>Content Management, HTML, CSS &amp; PHP</p></div>
 		
     	<p>Developed, managed and designed a large corporation intranet site of over 40 pages using original graphics and handcoded HTML/CSS; worked alongside various stakeholders including vice-presidents, IT staff and copywriters. Internal site visits increased 300% over a four month period.</p>

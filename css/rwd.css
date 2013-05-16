@@ -28,7 +28,6 @@ background-color:#dce0c2;
 	color:#989d79;
 	}
 
-
 #header { 
 	height: 1em; 
 	background-color: #3f461d;
@@ -189,7 +188,7 @@ text-decoration:none;
         }
         
 
-#highlightedwork .responsibilities h5 {
+#highlightedwork .skills h5 {
 	font-weight:700;
 	font-size:.5em;
 	letter-spacing:.1em;
@@ -223,7 +222,7 @@ text-decoration:none;
 	}
 
 .work h2 {
-	margin:1em 0;
+	margin:.5em 0 1em 0;
 	text-align:center;
 }
 
@@ -234,7 +233,27 @@ text-decoration:none;
 	font-weight:400;
 	}
 
-.responsibilities {
+
+.work a:before {
+    content: url(/img/link.png);
+    margin: 0 2px 0 0;
+    position: relative;
+    top: 6px;
+    }
+
+.work a {
+	color:#8c8c8c;
+	font-weight:600;
+  	-webkit-transition: all 0.25s linear;
+	-moz-transition: all 0.25s linear;
+	-o-transition: all 0.25s linear;
+	transition: all 0.25s linear;
+  	}
+
+.work a:hover {
+	color:#555555;
+	}
+.skills {
 	border:1px solid #dcdcdc;
 	padding:.2em;
 
@@ -244,10 +263,11 @@ text-decoration:none;
 	margin-top:1em;
 	}
 	
-.responsibilities p {
+.skills p {
 	margin:0;
 	font-size:.7em;
 	font-weight:400;
+	line-height:1.2em;
 	}
 
 .company {
@@ -258,7 +278,8 @@ text-decoration:none;
 	text-transform:uppercase;
 	letter-spacing:.1em;
 	font-weight:600;
-	}
+	color:darkgrey;
+		}
 
 .company:before {
 	content: "\2015";
@@ -273,6 +294,10 @@ text-decoration:none;
 	}
 
 
+#highlightedwork header {
+	display:none;
+	}
+	
 
 @media screen and (min-width:500px) {
 #highlightedwork div.project {
@@ -287,10 +312,23 @@ text-decoration:none;
 	padding:2em 0 2em 0;
 }
 
+.work:nth-of-type(1)  {
+	padding:.5em 0 2em 0;
+	margin: 0 1em 1em 1em;
+	}
+
 .work img {
 	text-align:center;
 	width:100%;
+	-webkit-box-shadow: 0px .1em .5em #989d79;
+	-moz-box-shadow: 0px .1em .5em #989d79;
+	box-shadow: 0px .1em .5em #989d79;
 	}
+
+#highlightedwork header h2 {
+	display:none;
+	}
+	
 
 
 }
@@ -353,7 +391,9 @@ text-decoration:none;
 	padding:10px;
 		}
 
-
+#highlightedwork header {
+display:block;
+}
 #highlightedwork header h2 {
 	font-family:Kristi;
 	color:#6e7544;
@@ -363,13 +403,14 @@ text-decoration:none;
 	border-bottom:#dce0c2 1px solid;
 	line-height:1em;
 	letter-spacing:0em;
+	display:block;
 	}
 	
 #highlightedwork div.project {
 	max-width:286px;
 	height:auto;
 	float:left;
-	padding: 10px;
+	padding: 10px 10px 30px 10px;
 	display:inline-block;
 }
 
@@ -408,6 +449,11 @@ text-decoration:none;
 	overflow:hidden;
 	}
 
+.work:nth-of-type(1)  {
+	margin:2em .5em .5em .5em;
+	}
+
+
 .work img {
 	width:70%;
 	float:left;
@@ -441,21 +487,32 @@ text-decoration:none;
 	text-align:left;
 	width:27%;
 	}
-	
-.responsibilities {
+
+.work img {
+	left:3px;
+	position:relative;
+}
+    	
+.skills {
 	margin:0;
 	}
 
-.responsibilities p {
+.skills p {
 	padding:0;
 	margin:0;
 	line-height:1.2em;
 	}	
 
+
 .description { 
 	float:right;
 	width:28%;
 	}
+
+
+.recentwork {
+margin-top:1.3em;
+}
 
 }
 
