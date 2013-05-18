@@ -42,7 +42,7 @@
 
   <nav id="nav">
     <ul>
-      <li><a href="/web">Web</a></li>
+      <li><a href="/web" class="selected">Web</a></li>
       <li><a href="/print">Print</a></li>
       <li><a href="/logos">Logos</a></li>
       <li><a href="/resume">Resume</a></li>
