@@ -320,7 +320,7 @@ text-decoration:none;
 
 #nav .selected {
 	position:relative;
-	background:transparent url('/img/navArrowSm.png') no-repeat 50% 25px;
+	background:transparent url('/img/navArrowsm.png') no-repeat 50% 25px;
 	-webkit-background-size: 60px 30px;
 	-moz-background-size: 60px 30px;
 	-o-background-size:60px 30px;
@@ -371,8 +371,10 @@ text-decoration:none;
 
 }
 @media screen and (min-width: 950px) {
+
+	
 #logo {
-	width:950px;
+	width:935px;
 	margin:0 auto;
 		}
 
@@ -466,7 +468,7 @@ background: rgba(110,117,68,0.3)
 
 
 #highlightedwork {
-	width:920px;
+	width:900px;
 	margin: 1em auto;
 	padding:10px;
 	}
