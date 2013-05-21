@@ -12,6 +12,13 @@ background-color:#dce0c2;
 	font-size:100%;
 	}
 
+.center {
+text-align:center;
+}
+
+.logos .work h2 {
+	display:none;
+	}
 .darkgreen {
 	color: #3f461d;
 	}
@@ -111,16 +118,17 @@ background: rgba(110,117,68,0.3)
 
 #highlightedwork {
 	background-color:#ffffff;
-	-webkit-box-shadow: 0px .1em .5em #989d79;
-	-moz-box-shadow: 0px .1em .5em #989d79;
-	box-shadow: 0px .1em .5em #989d79;
 	text-align:left;
 	margin:0 1em;
 	padding:1.5%;
 	overflow:hidden;
 }
-	
 
+.boxshadow  {
+	-webkit-box-shadow: 0px .1em .5em #989d79;
+	-moz-box-shadow: 0px .1em .5em #989d79;
+	box-shadow: 0px .1em .5em #989d79;
+	}	
 
 	
 	#highlightedwork div.project img {
@@ -255,6 +263,16 @@ text-decoration:none;
 .work a:hover {
 	color:#555555;
 	}
+	
+	
+.fullwidth img {
+width:100%;
+	}
+
+.smallLogo {
+	width:50%;
+	}
+		
 .skills {
 	border:1px solid #dcdcdc;
 	padding:.2em;
@@ -300,10 +318,20 @@ text-decoration:none;
 	display:none;
 	}
 	
+.smallLogo {
+	width:100%;
+	text-align:center;
+	}
+
+.smallLogo img {
+	width:60%;
+	}
 
 @media screen and (min-width:500px) {
 
-
+.logos .work h2 {
+	display:inherit;
+	}
 #highlightedwork div.project {
 	width:48%;
 	height:auto;
@@ -312,6 +340,14 @@ text-decoration:none;
 	margin:0 1% 2em 1%;
 	}
 	
+.fullwidth {
+	width:100%;
+	text-align:center;
+	}
+
+.fullwidth img {
+	max-width:620px;
+	}
 
 
 #nav { 
@@ -358,17 +394,20 @@ text-decoration:none;
 .work img {
 	text-align:center;
 	width:100%;
-	-webkit-box-shadow: 0px .1em .5em #989d79;
-	-moz-box-shadow: 0px .1em .5em #989d79;
-	box-shadow: 0px .1em .5em #989d79;
 	}
 
 #highlightedwork header h2 {
 	display:none;
 	}
-	
 
+.smallLogo {
+	width:100%;
+	text-align:center;
+	}
 
+.smallLogo img {
+	width:auto;
+	}
 }
 @media screen and (min-width: 950px) {
 
@@ -568,6 +607,21 @@ display:block;
 	padding-right:5px;
 	}
 
+.logos .work .company {
+	width:28%;
+	float:right;
+	padding:0 !important;
+	margin:0 !important;
+	}
+
+.logos .company:before {
+	padding:0;
+	}
+
+.logos .company:after {
+	padding:0;
+	}	
+	
 .work h2 {
 	padding:0;
 	margin:0;
@@ -580,7 +634,9 @@ display:block;
 	left:3px;
 	position:relative;
 }
-    	
+  .work img .fullWidth {
+	width:auto;
+	}  	
 .skills {
 	margin:0;
 	}
@@ -597,10 +653,28 @@ display:block;
 	width:28%;
 	}
 
-
 .recentwork {
 margin-top:1.3em;
 }
+
+
+.smallLogo {
+	width:620px;
+	overflow:hidden;
+	text-align:center;
+	float:left;
+	left:.25em;
+	position:relative;
+	}
+	
+.smallLogo img {
+	width:auto !important;
+	float:none !important;
+	padding:1em 0;
+	}
+
+
+
 
 }
 

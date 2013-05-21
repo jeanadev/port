@@ -1,6 +1,6 @@
 <?php include('top.php'); ?>
 
- <section id="highlightedwork">
+   <section id="highlightedwork" class="boxshadow">
     	<header>
     	    <h2>Recent Work</h2>
     	</header>
