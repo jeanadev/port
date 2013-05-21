@@ -1,42 +1,119 @@
 <?php include('../top.php'); ?>
 
-   <div id="main">
-    
-    <section id="work">
-    	<header>
-    	    <h3>Websites</h3>
-    	</header>
+   <section id="highlightedwork">
+   <header>
+        <h2>Web Development</h2>
+  </header>    	
+    	
+    <div class="work">
+		<span class="company">Gatton College of Business &amp; Economics</span>
 
-    <dl>
-      <dt><img src="/img/web-GattonUnited.png" alt="Gatton United Capital Campaign" width="600" height="526" /> </dt>
-      <dd><h3>Capital Campaign Fundraising Website - Gatton College of Business and Economics</h3></dd>
-      <dd>Led project to create a website highlighting fundraising efforts for a $65 Million capital campaign. Created content calendar, wireframes, and worked with graphic designer to create look and feel of the site.<br /><br />HTML, CSS, &amp; ASP<br /><br />online: <a href="http://gattonunited.uky.edu">gattonunited.uky.edu</a></dd>
-
-
-      <dt><img src="/img/drupal-signage.png" alt="Gatton Signage Screens" width="610" height="446" /> </dt>
-      <dd><h3>Digital Signage - Gatton College of Business and Economics</h3></dd>
-      <dd>Drupal drives the Digital Signage at the Gatton College of Business and Economics. I created a calendar content type, and used various views and taxonomy to deliver the calendar content to 3 tv screens throughout the building. Five content editors were trained update the college calendar through Drupal.<br /><br />Drupal, Theming, Views, HTML &amp; CSS<br /><br />online: <a href="http://gattondev.uky.edu/calendar/signage">gattondev.uky.edu/calendar/signage</a><br /><br /></dd>
-
-      <dt><img src="/img/web-GattonViewbook.png" alt="Responsive Viewbook" width="600" height="450" /> </dt>
-      <dd><h3>Viewbook - Gatton College of Business and Economics</h3></dd>
-      <dd>A responsive experiment that took the existing print viewbook for the undergraduate program and made it accessible online.  <br /><br />Responsive web design, HTML, CSS, &amp; ASP<br /><br />online: <a href="http://gatton.uky.edu/openingdoors">gatton.uky.edu/openingdoors</a><br /><br /></dd>
-
-      <dt><img src="/img/ack-web.png" alt="ack" width="600"  /> </dt>
-      <dd><h3>ack! | Beyond Grep</h3></dd>
-      <dd>Worked with a graphic designer and the software creator to redesign beyondgrep.com  <br /><br />HTML &amp; CSS<br /><br />online: <a href="http://beyondgrep.com">beyondgrep.com</a><br /><br /></dd>
-
-      <dt><img src="/img/email-GattonGroup.jpg" alt="Emails" width="610"  /> </dt>
-      <dd><h3>Email Marketing | Gatton College of Business and Economics</h3></dd>
-      <dd>Designed HTML emails for various campus departments. Worked as a team with the IT director and Marketing director to create a student-recruitment funnel system, tracking electronic correspondance with potential students from initial contact through application and acceptance.  <br /><br />HTML &amp; CSS<br /><br /></dd>
-
-      <dt><img src="img/FEDG_Townhall.png" alt="FEDG Townhall" /> </dt>
-      <dd><h3>Follett Educational Distribution Group Intranet site</h3></dd>
-      <dd>Developed, managed and designed a large corporation intranet site of over 40 pages using original graphics and handcoded HTML/CSS; worked alongside various stakeholders including vice-presidents, IT staff and copywriters. Internal site visits incresed 300% over a four month period.<br /><br />HTML, CSS &amp; PHP</dd>
-
-    </dl>
-
-   </section>
-
+	    <h2>Website: Gatton United Capital Campaign</h2>
+		
+		<img src="/img/web-GattonUnited.png" style="max-width:100%;height:auto;" alt="GattonUnited Capital Campaign" />
+		<div class="description">
+		<div class="skills"><h5>Skills</h5>
+		<p>HTML, CSS, & Classic ASP</p></div>
+		
+    	<p>Led project to create a website highlighting fundraising efforts for a $65 Million capital campaign. Created content calendar, wireframes, and worked with graphic designer to create look and feel of the site.</p>
+  		<p><a href="http://gattonunited.uky.edu">Visit the Site</a></p>
+       </div>
 	</div>
+    
+  
+    <div class="work">
+    
+		
+		<span class="company">Gatton College of Business &amp; Economics</span>
 
+	    <h2>Digital Signage</h2>
+		
+		<img src="/img/drupal-signage.png" style="max-width:100%;height:auto;" alt="Drupal Signage" />
+		<div class="description">
+		<div class="skills"><h5>Skills</h5>
+		<p>Drupal, Theming, Views, HTML & CSS</p>
+		
+		</div>
+		
+    	<p>Drupal drives the Digital Signage at the Gatton College of Business and Economics. I created a calendar content type, and used various views and taxonomy to deliver the calendar content to three television screens throughout the building. Five content editors were trained update the college calendar through Drupal.</p>
+ 		<p><a href="http://gattondev.uky.edu/calendar/signage">Visit the Site</a></p>
+       </div>
+	</div>
+	
+    <div class="work">
+    
+		<span class="company">Gatton College of Business &amp; Economics</span>
+
+	    <h2>Responsive Viewbooks</h2>
+		
+		<img src="/img/web-GattonViewbook.png" alt="Responsive Viewbook" style="max-width:100%;height:auto;" />
+		<div class="description">
+		<div class="skills"><h5>Skills</h5>
+		<p>Responsive web design, HTML, CSS, &amp; Classic ASP</p></div>
+		
+    	<p>A responsive experiment that took the existing print viewbook for the undergraduate program and made it accessible online.</p>
+  		<p><a href="http://gatton.uky.edu/openingdoors">Visit the Site</a></p>
+
+        </div>
+	</div>
+	
+    <div class="work">
+    
+		<span class="company">Open Source</span>
+
+	    <h2>Website: ack!</h2>
+		
+		<img src="/img/web-ack.png" alt="ack" style="max-width:100%;height:auto;" />
+		<div class="description">
+		<div class="skills"><h5>Skills</h5>
+		<p>HTML &amp; CSS</p></div>
+		
+    	<p>Worked with a graphic designer and the ack! software creator to redesign beyondgrep.com</p>
+  		<p><a href="http://www.beyondgrep.com">Visit the Site</a></p>
+
+        </div>
+	</div>
+	
+    <div class="work">
+    
+		<span class="company">Gatton College of Business and Economics</span>
+
+	    <h2>Email Marketing Campaigns</h2>
+		
+		<img src="/img/email-GattonGroup.jpg" alt="Email Design" style="max-width:100%;height:auto;" />
+		<div class="description">
+		<div class="skills"><h5>Skills</h5>
+		<p>Strategic Planning, HTML &amp; CSS</p></div>
+		
+    	<p>Designed HTML emails for various campus departments. Worked as a team with the IT director and Marketing director to create a student-recruitment funnel system, tracking electronic correspondance with potential students from initial contact through application and acceptance.</p>
+        </div>
+	</div>
+	
+    <div class="work">
+    
+		<span class="company">Follett Educational Distribution Group</span>
+
+	    <h2>Intranet Site</h2>
+		
+		<img src="/img/web-fedg.png" alt="FEDG Townhall" style="max-width:100%;height:auto;" />
+		<div class="description">
+		<div class="skills"><h5>Skills</h5>
+		<p>Content Management, HTML, CSS &amp; PHP</p></div>
+		
+    	<p>Developed, managed and designed a large corporation intranet site of over 40 pages using original graphics and handcoded HTML/CSS; worked alongside various stakeholders including vice-presidents, IT staff and copywriters. Internal site visits increased 300% over a four month period.</p>
+        </div>
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    </section>
+    
+    	
 <?php include('../footer.php'); ?>

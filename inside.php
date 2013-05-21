@@ -88,7 +88,7 @@
 		
 		</div>
 		
-    	<p>Drupal drives the Digital Signage at the Gatton College of Business and Economics. I created a calendar content type, and used various views and taxonomy to deliver the calendar content to 3 tv screens throughout the building. Five content editors were trained update the college calendar through Drupal.</p>
+    	<p>Drupal drives the Digital Signage at the Gatton College of Business and Economics. I created a calendar content type, and used various views and taxonomy to deliver the calendar content to three television screens throughout the building. Five content editors were trained update the college calendar through Drupal.</p>
  		<p><a href="http://gattondev.uky.edu/calendar/signage">Visit the Site</a></p>
        </div>
 	</div>
