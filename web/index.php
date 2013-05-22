@@ -1,4 +1,9 @@
-<?php include('../top.php'); ?>
+<?php 
+
+$pagename = "Web Development";
+
+include('../top.php'); ?>
+
 
    <section id="highlightedwork" class="boxshadow web">
    <header>

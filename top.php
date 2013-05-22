@@ -5,7 +5,7 @@
 
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Jeana Clark :: Graphic Designer</title>
+    <title>Jeana Clark :: Designer <?php if (isset($pagename)) { ?>:: <?php echo $pagename; } ?></title>
 
     <link rel="icon" href="/img/favicon.png" />
 
@@ -23,8 +23,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
 
-<?php include('http://jeanaclark.org/fb.php'); ?>
-
+	<meta property="og:title" content="Jeana Clark :: Graphic Designer"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://www.jeanaclark.org/"/>
+    <meta property="og:image" content="http://www.jeanaclark.org/img/jlogo2.png"/>
+    <meta property="og:site_name" content="Jeana Clark :: Graphic Designer"/>
+    <meta property="og:description"
+          content="Creative and innovative graphic designer who collaborates with organizations and companies to help them tell their unique and inspiring story. + 12 years in web development, 14 years in print design + HTML, CSS, PHP, JavaScript, ASP, Responsive Web Design. + Drupal + Wordpress + Graphic design skills + logo and brand development, brand collateral and publication design."/>
+          
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

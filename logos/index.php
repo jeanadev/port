@@ -1,4 +1,8 @@
-<?php include('../top.php'); ?>
+<?php 
+
+$pagename = "Logos";
+
+include('../top.php'); ?>
 
    <section id="highlightedwork" class="logos">
    <header>

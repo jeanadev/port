@@ -1,4 +1,8 @@
-<?php include('../top.php'); ?>
+<?php 
+
+$pagename = "Contact Me";
+
+include('../top.php'); ?>
 
    <section id="highlightedwork" class="boxshadow">
    <header>

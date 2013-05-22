@@ -1,4 +1,9 @@
-<?php include('../top.php'); ?>
+<?php 
+
+$pagename = "Print";
+
+include('../top.php'); ?>
+
 
    <section id="highlightedwork" class="boxshadow">
    <header>
