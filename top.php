@@ -54,7 +54,7 @@
       <li <?php if ($currentpage==$web) { ?>class="selected"<?php } ?>><a href="/web">Web</a></li>
       <li <?php if ($currentpage==$print) { ?>class="selected"<?php } ?>><a href="/print">Print</a></li>
       <li <?php if ($currentpage==$logos) { ?>class="selected"<?php } ?>><a href="/logos">Logos</a></li>
-      <li><a href="/resume">Resume</a></li>
+      <li><a href="/contact">Contact</a></li>
     </ul>
   </nav>
 
