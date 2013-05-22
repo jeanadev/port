@@ -12,16 +12,19 @@ include('../top.php'); ?>
 	
 	
 	<h3 style="margin-bottom:.5em;">Send me a note</h3>
+	
 	<div class="email">
 	<a href="mailto:jeana@jeanaclark.org">jeana@jeanaclark.org</a>
 	</div>
+	
 	<h3 style="margin:2em 0 .5em 0;">Follow me on Twitter</h3>
-	<a class="twitter-timeline" href="https://twitter.com/jeana_with_a_j" data-widget-id="337037882822897665">Tweets by @jeana_with_a_j</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
+	<div class="email">
+	<a href="http://www.twitter.com/jeana_with_a_j" target="new">
+	<img src="https://si0.twimg.com/profile_images/496120311/jlogo2_normal.png" style="width:35px;height:35px;" align="middle"> 
+	@jeana_with_a_j</a>
 	
 	
-	<h3 style="margin:2em 0 .5em 0;">LinkedIn</h3>
+	<h3 style="margin:2em 0 .5em 0;">Find me on LinkedIn</h3>
 	<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/jeanaclark" data-format="inline" data-related="false"></script>
 	
