@@ -1,16 +1,16 @@
 <?php include('../top.php'); ?>
 
-   <section id="highlightedwork" class="boxshadow">
+   <section id="highlightedwork" class="boxshadow web">
    <header>
         <h2>Web Development</h2>
   </header>    	
-    	
+	<a name="GattonUnited"></a>
     <div class="work">
 		<span class="company">Gatton College of Business &amp; Economics</span>
 
 	    <h2>Website: Gatton United Capital Campaign</h2>
 		
-		<img src="/img/web-GattonUnited.png" style="max-width:100%;height:auto;" alt="GattonUnited Capital Campaign" />
+		<img src="/img/web-GattonUnited.png" style="max-width:100%;height:auto;" alt="GattonUnited Capital Campaign" class="boxshadow"  />
 		<div class="description">
 		<div class="skills"><h5>Skills</h5>
 		<p>HTML, CSS, & Classic ASP</p></div>
@@ -20,7 +20,7 @@
        </div>
 	</div>
     
-  
+  	<a name="GattonSignage"></a>
     <div class="work">
     
 		
@@ -28,7 +28,7 @@
 
 	    <h2>Digital Signage</h2>
 		
-		<img src="/img/drupal-signage.png" style="max-width:100%;height:auto;" alt="Drupal Signage" />
+		<img src="/img/drupal-signage.png" style="max-width:100%;height:auto;" alt="Drupal Signage" class="boxshadow"  />
 		<div class="description">
 		<div class="skills"><h5>Skills</h5>
 		<p>Drupal, Theming, Views, HTML & CSS</p>
@@ -39,6 +39,25 @@
  		<p><a href="http://gattondev.uky.edu/calendar/signage">Visit the Site</a></p>
        </div>
 	</div>
+
+
+    <div class="work">
+    
+		<span class="company">Inbox Orange</span>
+
+	    <h2>Website redesign and logo refresh</h2>
+		
+		<img src="/img/web-InboxOrange.png" alt="Inbox Orange" style="max-width:100%;height:auto;" class="boxshadow" />
+		<div class="description">
+		<div class="skills"><h5>Skills</h5>
+		<p>Graphic Design, Illustration, Information Architecture, CSS</p></div>
+		
+    	<p>Redesigned InboxOrange.com, an email marketing company. I reorganized the content on the site and created templates for the web developer.</p>
+  		<p><a href="http://gatton.uky.edu/openingdoors">Visit the Site</a></p>
+
+        </div>
+	</div>
+	
 	
     <div class="work">
     
@@ -46,7 +65,7 @@
 
 	    <h2>Responsive Viewbooks</h2>
 		
-		<img src="/img/web-GattonViewbook.png" alt="Responsive Viewbook" style="max-width:100%;height:auto;" />
+		<img src="/img/web-GattonViewbook.png" alt="Responsive Viewbook" style="max-width:100%;height:auto;"/>
 		<div class="description">
 		<div class="skills"><h5>Skills</h5>
 		<p>Responsive web design, HTML, CSS, &amp; Classic ASP</p></div>
@@ -56,14 +75,15 @@
 
         </div>
 	</div>
-	
-    <div class="work">
+
+	<a name="ack"></a>
+	<div class="work">
     
 		<span class="company">Open Source</span>
 
 	    <h2>Website: ack!</h2>
 		
-		<img src="/img/web-ack.png" alt="ack" style="max-width:100%;height:auto;" />
+		<img src="/img/web-ack.png" alt="ack" style="max-width:100%;height:auto;"  class="boxshadow"  />
 		<div class="description">
 		<div class="skills"><h5>Skills</h5>
 		<p>HTML &amp; CSS</p></div>
@@ -80,7 +100,7 @@
 
 	    <h2>Email Marketing Campaigns</h2>
 		
-		<img src="/img/email-GattonGroup.jpg" alt="Email Design" style="max-width:100%;height:auto;" />
+		<img src="/img/email-GattonGroup.jpg" alt="Email Design" style="max-width:100%;height:auto;" class="boxshadow"  />
 		<div class="description">
 		<div class="skills"><h5>Skills</h5>
 		<p>Strategic Planning, HTML &amp; CSS</p></div>
@@ -95,7 +115,7 @@
 
 	    <h2>Intranet Site</h2>
 		
-		<img src="/img/web-fedg.png" alt="FEDG Townhall" style="max-width:100%;height:auto;" />
+		<img src="/img/web-fedg.png" alt="FEDG Townhall" style="max-width:100%;height:auto;" class="boxshadow"  />
 		<div class="description">
 		<div class="skills"><h5>Skills</h5>
 		<p>Content Management, HTML, CSS &amp; PHP</p></div>

@@ -6,42 +6,42 @@
     	</header>
     <div class="recentwork">
     	<div class="project">
-        <a href="#">
+        <a href="/web/index.php#GattonUnited">
 			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-GattonUnited.png" alt="Gatton United Capital Campaign" /></div>
           <h3>WEB :: HTML, CSS, CLASSIC ASP</h3>
          </a>
        </div>
 
     	<div class="project">
-        <a href="#">
+        <a href="/logos/index.php#JuiceBib">
 			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-JuiceBib.png" alt="JuiceBib logo" /></div>
           <h3>LOGO :: ILLUSTRATION</h3>
         </a>
         </div>
     	
     	<div class="project">
-        <a href="#">
+        <a href="/web/index.php#GattonSignage">
 			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-GattonSignage.png" alt="Drupal Signage" /></div>
           <h3>WEB :: DRUPAL DEVELOPMENT</h3>
         </a>
         </div>
 
     	<div class="project">
-        <a href="#">
+        <a href="/web/index.php#InboxOrange">
 			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-InboxOrange.png" alt="Inbox Orange" /></div>
           <h3>WEB :: DESIGN, & ICON ILLUSTRATION</h3>
         </a>
         </div>
 
     	<div class="project">
-        <a href="#">
+        <a href="/logos/index.php#SterlingSilver">
 			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-SterlingSilver.png" alt="Sterling Silver Logo" /></div>
           <h3>LOGO :: ILLUSTRATION</h3>
         </a>
         </div>
 
     	<div class="project">
-        <a href="#">
+        <a href="/web/index.php#ack">
 			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-ack.png" alt="ack - BeyondGrep.com" /></div>
           <h3>WEB :: HTML & CSS</h3>
         </a>

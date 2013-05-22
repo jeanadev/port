@@ -10,7 +10,7 @@
 		<span class="company">Serif Design Group</span>
 
 	<div class="fullwidth" />
-		<img src="/img/logo-ShieldWorks.png" alt="Quest Logo" />
+		<img src="/img/logo-ShieldWorks.png" alt="Shieldworks Logo" />
 	</div>
 	    <h2>ShieldWorks</h2>
 		<div class="description">
@@ -19,7 +19,8 @@
 	</div>  
 	
  
- 
+ 	<a name="SterlingSilver"></a>
+
     <div class="work">
 		<span class="company">Freelance</span>
 
@@ -44,6 +45,7 @@
        </div>
 	</div> 	
  
+	<a name="JuiceBib"></a>
   
       <div class="work">
 		<span class="company">Freelance</span>
@@ -82,7 +84,7 @@
 		<span class="company">Follett Educational Distribution Group</span>
 
 	<div class="smallLogo" />
-		<img src="/img/logo-FSCBack2SchoolLogo.png" alt="Books4Home.com Logo"/>
+		<img src="/img/logo-FSCBack2SchoolLogo.png" alt="Back2School Logotype"/>
 	</div>
 	    <h2>Back2School Logotype</h2>
 		<div class="description">
