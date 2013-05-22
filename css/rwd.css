@@ -95,7 +95,7 @@ text-align:center;
 	text-align:center;
 	margin:0;
 	display:block;
-	padding:.5em 1em;
+	padding:.5em .75em;
 
 	-webkit-transition: all 0.1s ease;
 	-moz-transition: all 0.1s ease;
@@ -386,7 +386,7 @@ width:100%;
 	}
 
 .work { 
-	padding:1em 0 1em 0;
+	padding:1em 0 1	em 0;
 }
 
 .work:nth-of-type(1)  {
@@ -677,7 +677,9 @@ margin-top:1.3em;
 	padding:1em 0;
 	}
 
-
+.logos .work {
+	padding:1em 0;
+	}
 
 
 }
