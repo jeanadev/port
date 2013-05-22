@@ -25,6 +25,8 @@
 </head>
 
 <body class="wireframe">
+<?php include_once("/js/analytics.php") ?>
+
 	<header id="header">
 	</header>
 	
