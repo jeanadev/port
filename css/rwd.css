@@ -251,6 +251,10 @@ text-decoration:none;
     top: 6px;
     }
 
+.email a:before {
+	content:'';
+	}
+	
 .work a {
 	color:#8c8c8c;
 	font-weight:600;

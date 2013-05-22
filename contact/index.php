@@ -10,7 +10,12 @@ include('../top.php'); ?>
   </header>    	
     <div class="work">
 	
-	<h3 style="margin-bottom:.5em;">Follow me on Twitter</h3>
+	
+	<h3 style="margin-bottom:.5em;">Send me a note</h3>
+	<div class="email">
+	<a href="mailto:jeana@jeanaclark.org">jeana@jeanaclark.org</a>
+	</div>
+	<h3 style="margin:2em 0 .5em 0;">Follow me on Twitter</h3>
 	<a class="twitter-timeline" href="https://twitter.com/jeana_with_a_j" data-widget-id="337037882822897665">Tweets by @jeana_with_a_j</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
