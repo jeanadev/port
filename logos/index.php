@@ -31,7 +31,18 @@
 		<p>Logo and typography design for local photographer.</p>
        </div>
 	</div>  
-	
+ 
+    <div class="work">
+		<span class="company">Cre8tive Group</span>
+
+	<div class="smallLogo" />
+		<img src="/img/logo-MultiplyLife.png" alt="Multiply Life" />
+	</div>
+	    <h2>Multiply Life</h2>
+		<div class="description">
+		<p>Logo for a national non-profit organization.</p>
+       </div>
+	</div> 	
  
   
       <div class="work">

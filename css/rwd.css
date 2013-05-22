@@ -313,6 +313,9 @@ width:100%;
 	padding-right:5px;
 	}
 
+.logos .work .company {
+	margin:0 0 1em 0;
+	}
 
 #highlightedwork header {
 	display:none;
@@ -383,7 +386,7 @@ width:100%;
 	}
 
 .work { 
-	padding:2em 0 2em 0;
+	padding:1em 0 1em 0;
 }
 
 .work:nth-of-type(1)  {
@@ -395,6 +398,7 @@ width:100%;
 	text-align:center;
 	width:100%;
 	}
+
 
 #highlightedwork header h2 {
 	display:none;
