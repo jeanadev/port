@@ -1,9 +1,9 @@
    <footer id="footer">
     
     <div class="contact">
-     <div>graphic design</div>
-     <div>web development</div>
-     <div>content strategy</div>
+     <div><a href="/web/">web</a></div>
+     <div><a href="/print/">print</a></div>
+     <div><a href="/logos/">logos</a></div>
      <div><a href="mailto:jeana@jeanaclark.org">jeana@jeanaclark.org</a></div>
 	</div>
     </footer>		
