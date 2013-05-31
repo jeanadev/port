@@ -110,7 +110,7 @@ include('../top.php'); ?>
 		<div class="skills"><h5>Skills</h5>
 		<p>Strategic Planning, HTML &amp; CSS</p></div>
 		
-    	<p>Designed HTML emails for various campus departments. Worked as a team with the IT director and Marketing director to create a student-recruitment funnel system, tracking electronic correspondance with potential students from initial contact through application and acceptance.</p>
+    	<p>Designed HTML emails for various campus departments. Worked as a team with the IT director and Marketing director to create a student-recruitment funnel system, tracking electronic correspondence with potential students from initial contact through application and acceptance.</p>
         </div>
 	</div>
 	

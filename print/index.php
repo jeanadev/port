@@ -101,7 +101,7 @@ include('../top.php'); ?>
 		<div class="description">
 		
 		
-    	<p>Based on football and halloween themes, created a fun party invitation for Fifth Third Bank employees.</p>
+    	<p>Based on football and Halloween themes, created a fun party invitation for Fifth Third Bank employees.</p>
        </div>
 	</div>
     
