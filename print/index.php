@@ -39,6 +39,18 @@ include('../top.php'); ?>
        </div>
 	</div>
  
+
+  <div class="work">
+   <span class="company">Asbury Theological Seminary</span>
+ 
+   <h2>Conference identity &amp; print materials</h2>
+ 
+   <img src="/img/asbury-minconf.png" style="max-width:100%;height:auto;" alt="Brochure" />                                              
+   <div class="description">
+     <p>Helped brainstorm the theme and tagline of the conference, and created the branded elements for the conference including brochure, buttons, postcards, and website landing page.</p>
+   </div>
+   </div>
+
       <div class="work">
 		<span class="company">Serif Design Group</span>
 
@@ -71,7 +83,7 @@ include('../top.php'); ?>
 
 	    <h2>ShieldWorks Identity &amp; Rebranding</h2>
 		
-		<img src="/img/print-ShieldWorks.png" style="max-width:100%;height:auto;"  alt="ShieldWorks" />
+		<img src="/img/print-shieldworks.png" style="max-width:100%;height:auto;"  alt="ShieldWorks" />
 		<div class="description">
 		
 		
