@@ -7,21 +7,21 @@
     <div class="recentwork">
     	<div class="project">
         <a href="/web/index.php#GattonUnited">
-			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-GattonUnited.png" alt="Gatton United Capital Campaign" /></div>
+	  <div class="thumb"><img class="cs-logo" src="img/highlighted/TN-GattonUnited.png" alt="Gatton United Capital Campaign" /></div>
           <h3>WEB :: HTML, CSS, CLASSIC ASP</h3>
          </a>
        </div>
 
     	<div class="project">
         <a href="/logos/index.php#JuiceBib">
-			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-JuiceBib.png" alt="JuiceBib logo" /></div>
+	  <div class="thumb"><img class="cs-logo" src="img/highlighted/TN-JuiceBib.png" alt="JuiceBib logo" /></div>
           <h3>LOGO :: ILLUSTRATION</h3>
         </a>
         </div>
     	
     	<div class="project">
         <a href="/web/index.php#GattonSignage">
-			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-GattonSignage.png" alt="Drupal Signage" /></div>
+	  <div class="thumb"><img class="cs-logo" src="img/highlighted/TN-GattonSignage.png" alt="Drupal Signage" /></div>
           <h3>WEB :: DRUPAL DEVELOPMENT</h3>
         </a>
         </div>
@@ -35,7 +35,7 @@
 
     	<div class="project">
         <a href="/logos/index.php#SterlingSilver">
-			<div class="thumb"><img class="cs-logo" src="img/highlighted/TN-SterlingSilver.png" alt="Sterling Silver Logo" /></div>
+  	  <div class="thumb"><img class="cs-logo" src="img/highlighted/TN-SterlingSilver.png" alt="Sterling Silver Logo" /></div>
           <h3>LOGO :: ILLUSTRATION</h3>
         </a>
         </div>
