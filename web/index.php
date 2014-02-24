@@ -41,7 +41,6 @@ include('../top.php'); ?>
 		</div>
 		
     	<p>Drupal drives the Digital Signage at the Gatton College of Business and Economics. I created a calendar content type, and used various views and taxonomy to deliver the calendar content to three television screens throughout the building. Five content editors were trained update the college calendar through Drupal.</p>
- 		<p><a href="http://gattondev.uky.edu/calendar/signage">Visit the Site</a></p>
        </div>
 	</div>
 
@@ -58,7 +57,7 @@ include('../top.php'); ?>
 		<p>Graphic Design, Illustration, Information Architecture, CSS</p></div>
 		
     	<p>Redesigned InboxOrange.com, an email marketing company. I reorganized the content on the site and created templates for the web developer.</p>
-  		<p><a href="http://gatton.uky.edu/openingdoors">Visit the Site</a></p>
+  		<p><a href="http://www.inboxorange.com">Visit the Site</a></p>
 
         </div>
 	</div>
